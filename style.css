@@ -1,0 +1,57 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a {
+	color: steelblue;
+}
+
+.content {
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.header {
+	text-align: center;
+	font-family:'Amatic SC', cursive;
+	font-size: 36px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.name {
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+.site {
+	font-size: 23px;
+	display: block;
+}
+
+.site:hover {
+	text-decoration: underline;
+}
+
+.homework {
+	position: relative;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 16px;
+	height: 160px;
+	margin: 10px 0px;
+}
+
+.assignment {
+	color: steelblue;
+}
+
+.description {
+	position: absolute;
+	right: 0px;
+	text-align: right;
+}
